@@ -1,7 +1,6 @@
 # Smoke Detection Using IoT Sensor Data
-
-### Course: Special Topics in IT - IoT, INFR 4599U  
-**Authors:** Purva Patel, Munim Melaque  
+  
+**Author:** Purva Patel
 
 ---
 
@@ -117,6 +116,6 @@ Each model was evaluated and compared based on its performance. **Random Forest 
 ## Acknowledgments
 
 - **Dataset:** [Kaggle](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset/data)  
-- This project was developed as part of the coursework for **Special Topics in IT - IoT, INFR 4599U**.  
+  
 
 ---
